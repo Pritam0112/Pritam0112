@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @Pritam Pohankar
-- 👀 I’m interested in Data Science/Analytics, Statistics, ML, DL, AI.
-- 🌱 I’m currently learning Deep Learing, AI
-- 💞️ I’m looking to collaborate on Data science/Analytics, ML, DL, AI.
-- 📫 How to reach me pritampohankar112@gmail.com
+# Hi, I'm Pritam Pohankar
+Currently pursing M.Tech in Industrial Engineering and Management at IIT Kharagpur
