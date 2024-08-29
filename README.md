@@ -9,7 +9,7 @@
 - 🔭 Working on projects combining Data Science & Operation Research
 - 🌱 Diving deep into Deep Learning, NLP, GenAI & advanced OR techniques
 
-😄 Words that describe me - Pro-Active, Self-motivated, Focused, Hardworking & Perfectionist.
+😄 Words that describe me - Pro-Active, Self-motivated, Focused, Hardworking, Adapdable & Perfectionist.
 
 
 🔗 Let's connect and collaborate on innovative solutions at the intersection of OR and AI!
